@@ -38,7 +38,7 @@ The dataset used for this project is based on a fictional superstore’s sales d
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/superstore-dashboard.git
+   git clone https://github.com/Souhaib-Cherbal/Superstore-Overview-Dashboard.git
    ```
    
 2. **Open the Dashboard**:
